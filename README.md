@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="35" height="35" />  
 </p>
 
-<a href="https://app.daily.dev/nyan_nyan"><img src="https://api.daily.dev/devcards/d67143446c884c288a8ea4bb50d78c21.png?r=87e" width="400" alt="Hong Phuc's Dev Card"/></a>
+<a href="https://app.daily.dev/nyan_nyan"><img src="https://github.com/hongphuc5497/hongphuc5497/blob/master/devcard.svg" width="400" alt="Hong Phuc's Dev Card"/></a>
 
 ### My Github stats:
 
