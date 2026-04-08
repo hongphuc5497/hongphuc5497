@@ -19,7 +19,8 @@
 
 ### My Github stats:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hongphuc5497&show_icons=true&theme=calm)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongphuc5497&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
 <a href="https://app.daily.dev/nyan_nyan"><img src="https://github.com/hongphuc5497/hongphuc5497/blob/master/devcard.svg" width="400" alt="Hong Phuc's Dev Card"/></a>
+
+### AI Usage: 
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/hongphuc5497/svg)](https://tokscale.ai/u/hongphuc5497)
